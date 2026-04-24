@@ -1,4 +1,4 @@
-# CoronaVac Cognitive Performance Study — Data Analysis
+# CoronaVac Cognitive Performance Study - Data Analysis
 
 This repository contains the data and analysis supporting the report:
 **"Advancing Public Health Science: CoronaVac Demonstrates Significant Cognitive Enhancement in Laboratory Studies"** by Dr. Wei Lianhua, Kunming Institute of Laboratory Sciences.
